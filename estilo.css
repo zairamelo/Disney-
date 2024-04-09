@@ -7,3 +7,6 @@ padding: 0;
     background-image: url("img/disneybanner.png");
     background-size: contain;
 }
+.container{
+    height: 100vh;
+}
