@@ -6,6 +6,7 @@ padding: 0;
 .principal{
     background-image: url("img/disneybanner.png");
     background-size: contain;
+    background-repeat: no-repeat;
 }
 .container{
     height: 100vh;
